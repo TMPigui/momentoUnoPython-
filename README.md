@@ -23,7 +23,11 @@ Ejercicios para demostrar lo aprendido en el primer momento
 **Kevin Morales Gomez**
 ***
 ### Ejecutar:
-`python empanadas.py`
+`python ejercicio1.py`   
+`python ejercicio2.py`   
+`python ejercicio3.py`   
+***
 
 ### Enlaces relacionados
 [Pagina aliada](https://educaciondigital.cesde.edu.co/pluginfile.php/12003893/mod_resource/content/1/examen1%20nuevas.pdf?redirect=1)
+***
